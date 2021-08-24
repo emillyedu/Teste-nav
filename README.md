@@ -1,6 +1,6 @@
 # Teste-nav
 
-Página de navegação responsiva feita com HTML, CSS e Javascript.
+Página de atendimento responsiva feita com HTML, CSS e Javascript.
 
 
 ## Comportamento
